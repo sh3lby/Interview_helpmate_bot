@@ -1,0 +1,19 @@
+{
+  "name": "interview-helpmate-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.ts"
+  },
+  "author": "sh3lby.cc",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "grammy": "^1.19.1",
+    "nodemon": "^3.0.1",
+    "random-js": "^2.1.0",
+    "ts-node": "^10.9.1"
+  }
+}
